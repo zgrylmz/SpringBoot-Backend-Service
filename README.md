@@ -1,4 +1,6 @@
-🚀 Spring Boot Backend Service
+**🚀 Spring Boot Backend Service**
+
+
 **📌 Projektübersicht**
 
 Dieses Projekt ist ein Spring Boot Backend Service, der nach modernen Best Practices und einer klar strukturierten, skalierbaren Architektur entwickelt wurde.
